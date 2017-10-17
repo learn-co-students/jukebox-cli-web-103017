@@ -1,6 +1,6 @@
 #!/usr/bin/env ruby
 
-require_relative "../lib/jukebox"
+require_relative "../lib/advanced_jukebox"
 
 songs = [
   "Phoenix - 1901",
