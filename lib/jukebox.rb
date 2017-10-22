@@ -1,4 +1,4 @@
-puts Dir.pwd
+
 songs = [
   "Phoenix - 1901",
   "Tokyo Police Club - Wait Up",
@@ -19,7 +19,7 @@ def say_hello(name)
 end
 
 def help
-  puts "---- Jukebox Help ----"
+  puts "I accept the following commands:"
   puts "- help : display this help message"
   puts "- list : displays a list of songs you can play"
   puts "- play : lets you choose a song to play"
